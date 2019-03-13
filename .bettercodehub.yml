@@ -1,0 +1,16 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./doc/.*
+- ./doc/jparse/.*
+- ./doc/jparse/class-use/.*
+- ./doc/jparse/expr/.*
+- ./doc/jparse/expr/class-use/.*
+- ./doc/jparse/stmt/.*
+- ./doc/jparse/stmt/class-use/.*
+- ./jparse/.*
+- ./jparse/expr/.*
+- ./jparse/stmt/.*
+- ./lib/.*
+- ./test/.*
